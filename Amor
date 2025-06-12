@@ -1,0 +1,1 @@
+.heart-bullet { animation: shootStraight 1s linear forwards; position: fixed; z-index: 10; } .heart-bullet svg { filter: drop-shadow(00 10px #ff1744); }
